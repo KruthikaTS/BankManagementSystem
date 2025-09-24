@@ -1,6 +1,6 @@
 # 🏦 Bank Management System (Python OOP Project)
 
-This is a simple Bank Management System built in Python to demonstrate Object-Oriented Programming (OOP) concepts.  
+ Bank Management System built in Python to demonstrate Object-Oriented Programming (OOP) concepts.  
 
 ## 📌 Features
 - Create a new bank account with a unique account number
